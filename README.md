@@ -2,7 +2,9 @@
 
 
 * "Data Science from Scratch" (2nd Ed.)의 내용을 Jupyter Notebook 버전으로 정리
-  + 관련 한글판 : "밑바닥부터 시작하는 데이터 과학" (1st Ed.)
+* 관련 한글판 : "밑바닥부터 시작하는 데이터 과학"
+  + 풍부한 예제 코드와 함께 머신러닝의 기본 모델들을 잘 설명한 훌륭한 교재
+  + 머신러닝의 원리를 수학이 아닌 코드로 이해하고 직접 구현해 볼 수 있음
 * 위치 : [notebook](https://github.com/00mymy/data-science-from-scratch/tree/master/notebook)
 * 이해를 돕기 위하여 필요한 설명 및 예시, 코드를 일부 추가하였음
 * 번역에 충실하기 보다 내용을 이해하고 전달하기 위하여 개념적인 설명은 원문과 다른 내용이 많음 
